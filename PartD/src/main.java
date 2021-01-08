@@ -6,6 +6,7 @@ public class main {
 	System.out.println("Hi, my name is Mathew");
 	System.out.println("My favourite colour is blue");
 	System.out.println("My favourite mode of transportaion is a car");
+	System.out.println("The best day of the week is Friday");
 
 	}
 
